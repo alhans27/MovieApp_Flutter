@@ -2,6 +2,8 @@
 
 A new Flutter project. Untuk Tugas MataKuliah Pemrograman Perangkat Bergerak. Pembuatan aplikasi ini mengikuti tutorial dari e-book "https://drive.google.com/file/d/1FqHgYlAnQqvswwXWRCaOgRf8tId16etW/view?usp=sharing"
 
+API from "https://www.themoviedb.org/"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
