@@ -1,6 +1,6 @@
 # k3519036_project_movieapp
 
-A new Flutter project.
+A new Flutter project. Untuk Tugas MataKuliah Pemrograman Perangkat Bergerak. Pembuatan aplikasi ini mengikuti tutorial dari e-book "https://drive.google.com/file/d/1FqHgYlAnQqvswwXWRCaOgRf8tId16etW/view?usp=sharing"
 
 ## Getting Started
 
